@@ -1,6 +1,6 @@
 
 ## İkinci El Kitap Alışveriş Sitesi
-Bu proje, kullanıcıların ikinci el kitapları alıp satabileceği bir web sitesi uygulamasını içermektedir. Aşağıda projeyi çalıştırmak ve temel işlevleri kullanmak için adımlar açıklanmıştır:
+Bu proje, kullanıcıların ikinci el kitapları satabileceği bir web sitesi uygulamasını içermektedir. Aşağıda projeyi çalıştırmak ve temel işlevleri kullanmak için adımlar açıklanmıştır:
 
 ## Projeyi Çalıştırma
 Öncelikle projenin kodlarını indirin ve XAMPP veya benzeri bir web sunucusu uygulamasının htdocs klasörüne yerleştirin.
